@@ -1,1 +1,1 @@
-# Korean Emotion Classification
+# 한국어 감정 분류 모델
