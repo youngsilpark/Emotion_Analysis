@@ -14,6 +14,6 @@
 
 # 예측
 
- - AI Hub의 '온라인 구어체 말뭉치 데이터' 활용
+ - [AI Hub의 '온라인 구어체 말뭉치 데이터' 활용](https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=625)
  - 온라인 영상 댓글의 카테고리 별 감정 분석을 진행함
  
